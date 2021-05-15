@@ -25,6 +25,7 @@ sections:
   create: all
   match: "**/_index.md"
   templates:
+  - gan
   - author
 - type: directory
   path: config/_default
